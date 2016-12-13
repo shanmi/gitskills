@@ -1,2 +1,3 @@
 Creating a new branch is quick & simple.
 Git is a free software ...
+New state can't commit for not finished.
